@@ -6,4 +6,3 @@ zuul:
     second:
       path: /api-f/**
       serviceId: service-feign
-  ignored-patterns: /**/hi/**
